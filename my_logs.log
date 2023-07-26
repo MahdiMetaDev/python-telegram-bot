@@ -1,0 +1,4 @@
+INFO (26/07/2023 12:37:56 AM): The answer is: 20 (Line: 12 [my_code.py])
+ERROR (26/07/2023 12:37:56 AM): some error!! (Line: 13 [my_code.py])
+INFO (26/07/2023 12:38:09 AM): The answer is: 20 (Line: 12 [my_code.py])
+ERROR (26/07/2023 12:38:09 AM): some error!! (Line: 13 [my_code.py])
